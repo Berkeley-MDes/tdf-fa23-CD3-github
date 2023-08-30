@@ -1,9 +1,6 @@
-# Hello DES INV 202 Student!
-Welcome to your new GitHub repository! 
+# Hi, you are reading CD3's weekly progress reports :)
+by Wanlun Ding, TDF fall 2023, MDes'24
 
-If you’re new to GitHub, you can think of this as a shared file space (like a Google Drive folder, or a like a USB drive that’s hosted online.) 
-
-This is your space to store project files, videos, PDFs, notes, images, etc., and (hopefully, neatly) organize so it's easy for viewers (and you!) to navigate. That said, it’s super easy for you to share any file or folder with us (your TDF instructional team) - just send us the link! 
 
 The specific file that I’m typing into right now is the **README.md** for this repo. 
 ##### (💡 TIP: The .md indicates that we’re using [Markdown formatting.](https://www.markdownguide.org/cheat-sheet/)) #####
