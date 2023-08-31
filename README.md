@@ -5,19 +5,17 @@ by Wanlun Ding, TDF fall 2023, MDes'24
 
 ### Process Doc & Assessment
 
-In the first week, I delved into the realm of parametric design using Rhino 3D and Grasshopper 3D... 
+🕳 In the first week, I delved into the realm of parametric design using Rhino 3D and Grasshopper 3D... 
+At first, I couldn't navigate the files as I kept receiving this error message, which still popped up later even though I [looked it up](https://discourse.mcneel.com/t/error-loading-tutorial-files/157563). Thankfully, my cohort members helped me with bypassing this problem, but I'm still looking for a proper solution.
 
-<img alt="Error message context" src="./weekly-reports/error.png" width="600">
-<img alt="Error message detail" src="./weekly-reports/error-etopanelview.png" width="200">
+<img alt="Error message context" src="./weekly-reports/error.png" width="600"><img alt="Error message detail" src="./weekly-reports/error-etopanelview.png" width="286">
 
 
-<img alt="2D phone stand linework error" src="./weekly-reports/2d-error.png" width="300">
 
 <img alt="Phone angle error" src="./weekly-reports/angle.png" width="500">
 
-<img alt="Phone position not adjusted" src="./weekly-reports/camera-position.png" width="500">
 
-<img alt="Context after adjustment" src="./weekly-reports/context.png" width="200">
+
 
 <img alt="Editing range of numeric slider" src="./weekly-reports/numeric-range.png" width="300">
 
@@ -27,16 +25,21 @@ In the first week, I delved into the realm of parametric design using Rhino 3D a
 <img alt="Screen offset scenario 2" src="./weekly-reports/screen-offset-2.png" width="500">
 
 
-👀 I resized the table based on the desk at my home, adjusted the human figure to my height, and set the phone's dimensions and camera positions according to the iPhone 11 Pro Max model.
+👀 I resized the table based on the desk at my home, adjusted the human figure to my height, and set the phone's dimensions and camera positions according to the iPhone 11 Pro Max model. I wonder what is a good practie to locate the precise data of the original phone design since I didn't find the information and had to search for figma mockups and do hand mearsurements. 
 
 <img alt="Table resized" src="./weekly-reports/table.png" width="600">
 <img alt="Phone customized to my case" src="./weekly-reports/phone-dimensions.png" width="600">
+<img alt="Phone camera repositioned" src="./weekly-reports/camera-position.png" width="500">
+<img alt="Context after adjustment" src="./weekly-reports/context.png" width="400">
 
-However, I wasn't able to find the slider to move the phone on the table, thus turning to move the student's positioni instead.
+🚶 However, I wasn't able to find the slider to move the phone on the table, so I turned to move the student's position instead.
 
 <img alt="Student position adjusted instead of phone position" src="./weekly-reports/student-position.png" width="600">
 
-The final laser-cut design results in misplaced, non-overlapped shapes and lines, which didn't happen for before some slider adjustments. In addition, I could not find where and how to bake the 2D design after changes, thus questioning if I accidentally moved the outline. I wonder if this would affect the export to Illustrator and laser cutting.
+:warning: The final laser-cut design resulted in misplaced, non-overlapped shapes and lines, which only happened after some slider adjustments. In addition, I could not find where and how to bake the 2D design after changes and doubted if I accidentally moved the outline. I wonder if this would affect the export to Illustrator and laser cutting.
+
+<img alt="2D phone stand linework error" src="./weekly-reports/2d-error.png" width="400">
+
 
 ### Reflections (what and how I learned)
 
@@ -75,7 +78,7 @@ is like turning a recipe into a dish. Grasshopper designs provide rules for Rhin
 4. Lighting conditions
 5. Phone model and size
 6. Material and aesthetics
-7. 🚶 _**Portability and storage**_
+7. 🏖 _**Portability and storage**_
 8. 🔌 _**Cable management**_
 9. Hands-free operation
 10. Ease of assembly and customization
