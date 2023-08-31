@@ -53,11 +53,7 @@ is like turning a recipe into a dish. Grasshopper designs provide rules for Rhin
    
    - Consider more contextual data and user preferences. Where are the windows, and where does the best natural lighting come in? Is the generated design suitable for users with various difficulties in vision, mobility, etc.? Is the computational model powerful enough to inform such accessible design? Is it possible to lay the foundation for a further manually modified design intended for enjoyment beyond usability?
 
-  - How is parametric design more or less suitable for designing different user scenarios compared to generative and algorithmic design? 
-
-
-
-Consider: What other evaluations of results would be useful to provide as feedback?
+  - How is parametric design more or less suitable for designing different user scenarios compared to generative and algorithmic design? In what cases should I generate a collection of designs, or seek one solution? How does the quantity of produced designs or the algorithmic process "in the black box" affect the ideal working method of evaluating results? I would revisit these questions after printing and laser cutting the designs and as I explore computational design and the 3D tools more.  
 
 ✅ Next thing for gaining knowledge of Rhino and Grasshopper includes: 
 - Learn the [Rhino](http://docs.mcneel.com/rhino/7/help/en-us/commandlist/command_list.htm) and [Grasshopper](http://docs.mcneel.com/rhino/7/help/en-us/commands/grasshopper.htm) command list and vocabulary for better communication and understanding (sources linked).
