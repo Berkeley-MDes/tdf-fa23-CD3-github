@@ -77,4 +77,8 @@ is like turning a recipe into a dish. Grasshopper designs provide rules for Rhin
 
 🧙 Furthermore, imagine if users can all adjust the parameters through a designed AI-powered interface without interacting with the complex tool and 3D print the product from home; how can they give feedback, and what feedback data are needed for improvements once they try it out? I researched and discovered the seemingly contradictory yet promising paring of a concept, "mass customization," through [an article](https://all3dp.com/1/computational-design-in-3d-printing-for-mass-customization/#:~:text=It's%20not%20artificial%20intelligence%20(AI,more%20efficient%2C%20innovative%2C%20and%20bespoke). I was thinking more about design for highly personalized fit, especially in the realm of healthcare, fitness, everyday safety equipment. The applications can be more creative and aesthetics-oriented. But what does creativity even mean? Is leveraging computational design to design a medical device necessarily a less creative process than to produce a fashionable keychain? For the final thought, please see some of my product findings below on an arbitrary and probably very biased scale of creativity (all of which I appreciated and was surprised at). 
 
+Practical
+
+
+Creative
 
