@@ -7,15 +7,40 @@ by Wanlun Ding, TDF fall 2023, MDes'24
 
 In the first week, I delved into the realm of parametric design using Rhino 3D and Grasshopper 3D... 
 
+
+
+
+<img alt="Error message context" src="./weekly-reports/error.png" width="600">
+<img alt="Error message detail" src="./weekly-reports/error-etopanelview.png" width="200">
+
+
+<img alt="2D phone stand linework error" src="./weekly-reports/2d-error.png" width="300">
+
+<img alt="Phone angle error" src="./weekly-reports/angle.png" width="500">
+
+<img alt="Phone position not adjusted" src="./weekly-reports/camera-position.png" width="500">
+
+<img alt="Context after adjustment" src="./weekly-reports/context.png" width="200">
+
+<img alt="Editing range of numeric slider" src="./weekly-reports/numeric-range.png" width="300">
+
+<img alt="Phone customized to my case" src="./weekly-reports/phone-dimensions.png" width="500">
+
+<img alt="Screen offset scenario 1" src="./weekly-reports/screen-offset-1.png" width="500">
+<img alt="Screen offset scenario 2" src="./weekly-reports/screen-offset-2.png" width="500">
+<img alt="Student position adjusted instead of phone position" src="./weekly-reports/student-position.png" width="500">
+<img alt="Table resized" src="./weekly-reports/table.png" width="500">
+
+### Reflections
+
 🤯 Though having played with Rhino modeling a few years ago, I used it primarily for grasping 3D concepts rather than precision. This became evident when my attempt to export a design for laser cutting resulted in ill-fitting pieces back then. Reopening Rhino years later, I faced a steep relearning curve of the interface. The introduction of Grasshopper for computational design confused me with unfamiliar situations and elements like empty viewports, unselectable geometries, and the baking process. Introduced to computational design and the new tool, however, I could not understand the blank viewports in the beginning, the unselectable geometries, and the baking concept, until I read [this article](https://modelab.gitbooks.io/grasshopper-primer/content/1-foundations/1-1/3_talking-to-rhino.html) explaining how Grasshopper communicates with Rhino. 
 
 
-
-### Reflections
 * reflections on what you learned and how you learned it
 * an assessment of the state of your work
 
- these ==very important words==
+_**Baking**_
+is like turning a recipe into a dish. Grasshopper designs provide rules for Rhino to follow, but it doesn't actually create any real objects by itself. When you want to use Grasshopper-designed shapes in Rhino, like selecting, editing, or transforming, you need to "bake" them. Baking is like taking a snapshot of your Grasshopper design and making it real in the Rhino world. Once you've baked something, it becomes an actual part of your Rhino project and won't change automatically if you make changes to your Grasshopper instructions.
  
 
 reflect on the experience of exploring a procedural model whose output is a cell phone stand design in Rhino
@@ -32,9 +57,4 @@ Could be used to assist?
 Could be trained on input and output?
 Other?
 
-
-This week, 
-
-<img alt="Error message context" src="./weekly-reports/error.png" width="600">
-<img alt="Error message detail" src="./weekly-reports/error-etopanelview.png" width="300">
 
