@@ -7,9 +7,6 @@ by Wanlun Ding, TDF fall 2023, MDes'24
 
 In the first week, I delved into the realm of parametric design using Rhino 3D and Grasshopper 3D... 
 
-
-
-
 <img alt="Error message context" src="./weekly-reports/error.png" width="600">
 <img alt="Error message detail" src="./weekly-reports/error-etopanelview.png" width="200">
 
@@ -24,12 +21,22 @@ In the first week, I delved into the realm of parametric design using Rhino 3D a
 
 <img alt="Editing range of numeric slider" src="./weekly-reports/numeric-range.png" width="300">
 
-<img alt="Phone customized to my case" src="./weekly-reports/phone-dimensions.png" width="500">
+
 
 <img alt="Screen offset scenario 1" src="./weekly-reports/screen-offset-1.png" width="500">
 <img alt="Screen offset scenario 2" src="./weekly-reports/screen-offset-2.png" width="500">
-<img alt="Student position adjusted instead of phone position" src="./weekly-reports/student-position.png" width="500">
-<img alt="Table resized" src="./weekly-reports/table.png" width="500">
+
+
+👀 I resized the table based on the desk at my home, adjusted the human figure to my height, and set the phone's dimensions and camera positions according to the iPhone 11 Pro Max model.
+
+<img alt="Table resized" src="./weekly-reports/table.png" width="600">
+<img alt="Phone customized to my case" src="./weekly-reports/phone-dimensions.png" width="600">
+
+However, I wasn't able to find the slider to move the phone on the table, thus turning to move the student's positioni instead.
+
+<img alt="Student position adjusted instead of phone position" src="./weekly-reports/student-position.png" width="600">
+
+The final laser-cut design results in misplaced, non-overlapped shapes and lines, which didn't happen for before some slider adjustments. In addition, I could not find where and how to bake the 2D design after changes, thus questioning if I accidentally moved the outline. I wonder if this would affect the export to Illustrator and laser cutting.
 
 ### Reflections (what and how I learned)
 
