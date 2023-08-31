@@ -7,11 +7,16 @@ by Wanlun Ding, TDF fall 2023, MDes'24
 
 In the first week, I delved into the realm of parametric design using Rhino 3D and Grasshopper 3D... 
 
-🤯 Even though I had experience modeling with Rhino, I mainly used it to get familiar with understanding and constructing three-dimensional views without any requirement of accuracy. Thus, when I tried exporting my design for laser cutting one time, I could not fit the physical pieces together afterward. I was surprised to find that I experienced a steep learning curve as I opened up the Rhino application again a few years later and became completely unfamiliar with the interface and functions. I was used to starting with a blank canvas and immediately seeing geometries building. Working with computational design and the new tool Grasshopper, however, I could not understand the blank viewports in the beginning, the unselectable geometries, and the baking concept, until I read 
+🤯 Though having played with Rhino modeling a few years ago, I used it primarily for grasping 3D concepts rather than precision. This became evident when my attempt to export a design for laser cutting resulted in ill-fitting pieces back then. Reopening Rhino years later, I faced a steep relearning curve of the interface. The introduction of Grasshopper for computational design confused me with unfamiliar situations and elements like empty viewports, unselectable geometries, and the baking process. Introduced to computational design and the new tool, however, I could not understand the blank viewports in the beginning, the unselectable geometries, and the baking concept, until I read [this article](https://modelab.gitbooks.io/grasshopper-primer/content/1-foundations/1-1/3_talking-to-rhino.html) explaining how Grasshopper communicates with Rhino. 
+
+
 
 ### Reflections
 * reflections on what you learned and how you learned it
 * an assessment of the state of your work
+
+ these ==very important words==
+ 
 
 reflect on the experience of exploring a procedural model whose output is a cell phone stand design in Rhino
 Consider: What other contextual observations would be useful to capture?
