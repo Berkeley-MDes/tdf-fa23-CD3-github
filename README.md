@@ -10,16 +10,10 @@ At first, I couldn't navigate the files as I kept receiving this error message, 
 
 <img alt="Error message context" src="./weekly-reports/error.png" width="600"><img alt="Error message detail" src="./weekly-reports/error-etopanelview.png" width="286">
 
-❗ Another obstacle I encountered was when I edited the phone viewing angle, and the entire stand model was shown in red to indicate an error as the two identical holding pieces would break. I wonder why the rest of the pieces could not change to reflect the parameter adjustments and if this gap existed in the structural design. Moreover, I couldn't figure out what the phone screen offset from edge meant by changing the related number. 
-
-<img alt="Phone angle error" src="./weekly-reports/angle.png" width="600">
-<img alt="Screen offset scenario 1" src="./weekly-reports/screen-offset-1.png" width="600">
-<img alt="Screen offset scenario 2" src="./weekly-reports/screen-offset-2.png" width="600">
-
-
 👀 I resized the table based on the desk at my home, adjusted the human figure to my height, and set the phone's dimensions and camera positions according to the iPhone 11 Pro Max model. I wonder what is a good practie to locate the precise data of the original phone design since I didn't find the information and had to search for figma mockups and do hand mearsurements. 
 
 <img alt="Table resized" src="./weekly-reports/table.png" width="600">
+<img alt="Sketch of phone" src="./weekly-reports/phone-sketch.jpg" width="300">
 <img alt="Phone customized to my case" src="./weekly-reports/phone-dimensions.png" width="600">
 <img alt="Phone camera repositioned" src="./weekly-reports/camera-position.png" width="600">
 <img alt="Context after adjustment" src="./weekly-reports/context.png" width="300">
@@ -27,6 +21,12 @@ At first, I couldn't navigate the files as I kept receiving this error message, 
 🚶 However, I wasn't able to find the slider to move the phone on the table, so I turned to move the student's position instead.
 
 <img alt="Student position adjusted instead of phone position" src="./weekly-reports/student-position.png" width="600">
+
+❗ Another obstacle I encountered was when I edited the phone viewing angle, and the entire stand model was shown in red to indicate an error as the two identical holding pieces would break. I wonder why the rest of the pieces could not change to reflect the parameter adjustments and if this gap existed in the structural design. Moreover, I couldn't figure out what the phone screen offset from edge meant by changing the related number. 
+
+<img alt="Phone angle error" src="./weekly-reports/angle.png" width="600">
+<img alt="Screen offset scenario 1" src="./weekly-reports/screen-offset-1.png" width="600">
+<img alt="Screen offset scenario 2" src="./weekly-reports/screen-offset-2.png" width="600">
 
 :warning: The final laser-cut design resulted in misplaced, non-overlapped shapes and lines, which only happened after some slider adjustments. In addition, I could not find where and how to bake the 2D design after changes and doubted if I accidentally moved the outline. I wonder if this would affect the export to Illustrator and laser cutting.
 
