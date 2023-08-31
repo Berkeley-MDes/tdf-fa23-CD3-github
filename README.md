@@ -1,19 +1,10 @@
 # Hi, you are reading CD3's weekly progress reports :)
 by Wanlun Ding, TDF fall 2023, MDes'24
 
-
-The specific file that I’m typing into right now is the **README.md** for this repo. 
-##### (💡 TIP: The .md indicates that we’re using [Markdown formatting.](https://www.markdownguide.org/cheat-sheet/)) #####
-<h6> (💡 TIP 2: GitHub Markdown supports <a href="https://gist.github.com/seanh/13a93686bf4c2cb16e658b3cf96807f2"> <em>HTML formatting</em> too, including emojis 😄</a>, in case that helps!) </h6>
-
-### :star: Whatever you write in your **README.md** will show up on the “front page” of your GitHub repo. This is where we’ll be looking for your [weekly progress reports](https://github.com/Berkeley-MDes/desinv-202/wiki/3.0-Weekly-Submissions). They might look something like this: ###
----
-# Report 1 - Week of 08/31/2023 #
+## Report 1 - Week of 08/31/2023 #
 This week, 
 
-<img width="200" alt="Error message" src="https://github.com/s-almeda/tdf-template-repo/assets/21287693/bc2f1864-af5a-456d-9a71-e1d80d51190c">
-
-![error message](error.png)
+<img alt="Error message" src="./weekly-reports/error.png" width="500">
 
 <img width="200" alt="Error message" src="https://github.com/s-almeda/tdf-template-repo/assets/21287693/bc2f1864-af5a-456d-9a71-e1d80d51190c">
 ---
