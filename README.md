@@ -75,12 +75,19 @@ is like turning a recipe into a dish. Grasshopper designs provide rules for Rhin
 11. Stability and vibration damping
 12. 🛋 _**Contextual aesthetics**_
 
-🧙 Furthermore, imagine if users can all adjust the parameters through a designed AI-powered interface without interacting with the complex tool and 3D print the product from home; how can they give feedback, and what feedback data are needed for improvements once they try it out? I researched and discovered the seemingly contradictory yet promising paring of a concept, "mass customization," through [an article](https://all3dp.com/1/computational-design-in-3d-printing-for-mass-customization/#:~:text=It's%20not%20artificial%20intelligence%20(AI,more%20efficient%2C%20innovative%2C%20and%20bespoke). I was thinking more about design for highly personalized fit, especially in the realm of healthcare, fitness, everyday safety equipment. The applications can be more creative and aesthetics-oriented. But what does creativity even mean with computational design? Is leveraging computational design to design a medical device necessarily a less creative process than to produce a fashionable keychain? For the final thought, please see some of my product findings below, all of which I appreciated and learned a lot from. 
 
-<img width="300" alt="Nike 3D-printed sneakers" src="https://sourcingjournal.com/wp-content/uploads/2018/03/Nike_Zoom_Superfly_Flyknit_Profile_hd_1600_hd_1600.jpg?w=800&h=511&crop=1">
+🧙 Furthermore, imagine if users can all adjust the parameters through a designed AI-powered interface without interacting with the complex tool and 3D print the product from home; how can they give feedback, and what feedback data are needed for improvements once they try it out? I researched and discovered the seemingly contradictory yet promising paring of a concept, "mass customization" through [this article](https://t.ly/cXR72). I was thinking more about design for highly personalized fit, especially in the realm of healthcare, fitness, everyday safety equipment. The applications can be more creative and aesthetics-oriented. But what does creativity even mean with computational design? Is leveraging computational design to design a medical device necessarily a less creative process than to produce a fashionable keychain? For the final thought, please see some of my product findings below, all of which I appreciated and learned a lot from. 
+
+<img width="400" alt="Nike 3D-printed sneakers" src="https://sourcingjournal.com/wp-content/uploads/2018/03/Nike_Zoom_Superfly_Flyknit_Profile_hd_1600_hd_1600.jpg?w=800&h=511&crop=1">
 
 [Nike's performance-enhancing 3D-printed sneakers](https://techcrunch.com/2018/04/17/nikes-vaporfly-elite-flyprint-leans-hard-into-computational-design/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAJBe7TnddiJgDio7OvVoDagrGf23X6nx3oG5ThJ0FRdxpAO7B5zww0oY1lIRXQj6QAGVKdMucl7uy_gx47RHG-IMkZCCEuBQ3o0y2SucEpd2o_z6-z-PUvvcn4foGm5vVeZmBkXIdxZda-9Z3HGBwUenSb-hpoTTzX8b30YepGwu)
 
-<img alt="Personomic's custom-made bike grips" src="./weekly-reports/bike.png" width="300">
+<img alt="Personomic's custom-made bike grips" src="./weekly-reports/bike.png" width="400">
+
+[Personomic's maximum comfort custom-made bike grips](https://personomic.de/en/products/bike-grips)
+
+<img width="400" alt="Nik Lee's bubble boots" src="https://images.squarespace-cdn.com/content/v1/5bbd9952d7819e538a611efd/4d260bb0-d8bb-44ee-b935-f0869f24b067/Final+Development+Sheet1.jpg?format=2500w">
+
+[Nik Lee's bubble boots idea by AI](https://nikleedesign.com/bubble-boots)
 
 🤓 Thanks for reading.
