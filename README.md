@@ -7,7 +7,7 @@ by Wanlun Ding, TDF fall 2023, MDes'24
 
 🤔 The first week's progress focused mainly on adjusting the existing parameters in Grasshopper and understanding how the changes appeared in Rhino, which gave me a vague and simplified sense of what computational design could do. The second week was more fruitful in terms of grasping the system design in Grasshopper with [the walkthrough tutorial on Cell Phone Stand Design by TJ](https://www.youtube.com/watch?v=GHtWNAPiAoE) ...
 
-First, continuing in last week's 2D phone stand export and laser cutting, I 
+First, continuing in last week's 2D phone stand export, I examined and exported my customized design to Illustrator for laser cutting 
 
 <img alt="Error in Illustrator export" src="./weekly-reports/w2-0906/ai-out.png" width="300">
 <img alt="Surface area of 2D phone stand laser cut export 1" src="./weekly-reports/w2-0906/area-1.png" width="300">
