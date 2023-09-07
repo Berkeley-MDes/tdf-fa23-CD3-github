@@ -35,23 +35,30 @@ Although the parametric design approach can be a lot more efficient in producing
 
 In addition, in the landscape version, the camera lens appeared to be suspended in mid-air, potentially indicating an issue with the phone's structural design. Unfortunately, I couldn't locate the source of this problem within the phone's design, as it worked out correctly with the portrait placement. 
 
+I also wonder how to introduce the user context, like activity points, into the simple 3D phone stand design and how it would affect the design output. 
+
 <img alt="3D phone stand landscape" src="./weekly-reports/w2-0906/landscape.png" height="400">  <img alt="3D phone stand portrait" src="./weekly-reports/w2-0906/portrait.png" height="400">
 
-👀  I also wonder how to introduce the user context, like activity points, into the simple 3D phone stand design and how it would affect the design output. 
-
-<img alt="Phone projection simulated" src="./weekly-reports/w2-0906/projection.png" width="300">
-<img alt="Phone projection lip" src="./weekly-reports/w2-0906/projection-lip.png" width="300">
+<img alt="Phone projection simulated" src="./weekly-reports/w2-0906/projection.png" width="600">
 
 🏷 Finally, I learned good practices from following the tutorial: duplicating an item multiple times throughout the system whenever necessary to maintain better visibility. Additionally, incorporating notes to explain the purpose of each section is another effective method for staying informed and quickly locating relevant information. Much like in coding, having a well-organized and documented system design can significantly boost productivity and efficiency.
 
 <img alt="Good practice of copying names" src="./weekly-reports/w2-0906/copy-name.png" width="600">
 
-### Speculations (tools, work, and news)
+### Speculations
 
-speculation on the future direction for the tools [so much is changing very quickly right now, where do you think this is going? Why do you think this?]
-speculation on future direction of the work
+1. _**Enhancements in Grasshopper and Rhino 3D:**_ As I continue my journey with these tools, I anticipate that they will undergo continual improvements, such as the incorporation of an AI assistant to aid users, especially beginners. Currently, both tools demand the memorization of numerous commands. But is it possible that in the near future, we'll have the capability to simply ask a chatbot for guidance, and have a series of commands seamlessly provided and executed?
+   
+2. _**Increased Focus on Practical Applications and Deeper Understanding of Computational Design:**_ While I've been primarily experimenting and learning so far, I'm excited about applying computational design to real-world challenges toward finishing Project 1.
 
-🤖 As a neophyte, I (of course) asked ChatGPT about the parameters for generating a good phone stand design. Here is a list 
+   - I want to tackle complex design problems by leveraging the full potential of these tools, which could involve optimizing product designs for manufacturing efficiency.
+   - The notion of striking a balance between aesthetics, cost, and usability fascinates me and will continue to be a main topic to explore in Project 1.
+   - I'm drawn to designs that consider the needs and behaviors of end-users. For instance, how can I leverage parametric design to create ergonomic office products or design equipment in public spaces that encourage accessible social interaction?
+   - Can the design output be modular for easier testing and evaluation? This is still a vague question to be composed more accurately, but I'm interested how to design for a larger-scale system with very complex inputs, constraints, and intents.
+   - 
+3. _**Decision-Making Mechanisms:**_ Embedding decision-making mechanisms into my designs intrigues me. For instance, if I'm designing a modular housing system, I might explore how computational design can help me generate layouts that maximize space utilization while adhering to local building codes and regulations.
+
+10. _**Documentation and Best Practices:**_ Recognizing the importance of good practices, I plan to implement more systematic documentation in my workflows. This could involve creating detailed design guidelines, documenting design decisions, and maintaining organized project files for future reference.
 
 ---
 
