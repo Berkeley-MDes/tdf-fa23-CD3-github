@@ -24,15 +24,17 @@ While the 2D phone stand might not be the perfect example for addressing this co
 <img alt="Surface area of 2D phone stand laser cut export 1" src="./weekly-reports/w2-0906/area-1.png" height="200">`  <img alt="2D phone stand 1" src="./weekly-reports/w2-0906/cut-1.png" height="200">
 <img alt="Surface area of 2D phone stand laser cut export 2" src="./weekly-reports/w2-0906/area-2.png" height="200">  <img alt="2D phone stand 2" src="./weekly-reports/w2-0906/cut-2.png" height="200">
 
-🖲 The simple 3D phone stand file might serve as a better case to investigate the balance, especially when I followed the tutorial to compare the sphere versus cylinder versions. 
+🖲 The simple 3D phone stand file might serve as a more suitable case to investigate the balance, especially when I followed the tutorial to compare the sphere versus cylinder versions. Estimating the baked output's approximate volume by eyeing was hard, but I noticed that the cylinder's height and radius had the most significant impact on the result. However, if considering the stability factor, I couldn't tell if having higher back support in the cylinder version or making a wider base support in the sphere version worked better. The volumes can also differ more than in the 2D designs. 
 
-<img alt="Phone stand sphere" src="./weekly-reports/w2-0906/cylinder-landscape.png" width="600">
-<img alt="Phone stand cylinder" src="./weekly-reports/w2-0906/cylinder-solid.png" width="600">
+Although the parametric design approach can be a lot more efficient in producing a usable design, given the established relationship between objectives and responses, I had yet to see how it could make the ideal decisions in similar cases and what designers should do to achieve the balance. How can I embed a decision-making mechanism through designing the system in Grasshopper? 
+
+<img alt="Phone stand sphere" src="./weekly-reports/w2-0906/cylinder-landscape.png" height="300">  <img alt="Volume of 3D phone stand bake 1" src="./weekly-reports/w2-0906/volume-1.png" height="300">
+<img alt="Phone stand cylinder" src="./weekly-reports/w2-0906/cylinder-solid.png" height="300">  <img alt="Volume of 3D phone stand bake 2" src="./weekly-reports/w2-0906/volume-2.png" height="300">
 
 
-<img alt="Error message context" src="./weekly-reports/w2-0906/landscape.png" height="400">  <img alt="Error message context" src="./weekly-reports/w2-0906/portrait.png" height="400">
+<img alt="3D phone stand landscape" src="./weekly-reports/w2-0906/landscape.png" height="400">  <img alt="3D phone stand portrait" src="./weekly-reports/w2-0906/portrait.png" height="400">
 
-<img alt="Error message context" src="./weekly-reports/w2-0906/copy-name.png" width="600">
+<img alt="Good practice of copying names" src="./weekly-reports/w2-0906/copy-name.png" width="600">
 
 
 <img alt="Error message context" src="./weekly-reports/w2-0906/preview.png" width="300">
@@ -71,7 +73,7 @@ At first, I couldn't navigate the files as I kept receiving this error message, 
 
 <img alt="Error message context" src="./weekly-reports/error.png" width="600"><img alt="Error message detail" src="./weekly-reports/error-etopanelview.png" width="286">
 
-👀 I resized the table based on the desk at my home, adjusted the human figure to my height, and set the phone's dimensions and camera positions according to the iPhone 11 Pro Max model. I wonder what is a good practie to locate the precise data of the original phone design since I didn't find the information and had to search for figma mockups and do hand mearsurements. 
+👀 I resized the table based on the desk at my home, adjusted the human figure to my height, and set the phone's dimensions and camera positions according to the iPhone 11 Pro Max model. I wonder what is a good practice to locate the precise data of the original phone design since I didn't find the information and had to search for Figma mockups and do hand measurements. 
 
 <img alt="Table resized" src="./weekly-reports/table.png" width="600">
 <img alt="Sketch of phone" src="./weekly-reports/phone-sketch.jpg" width="300">
@@ -139,7 +141,7 @@ is like turning a recipe into a dish. Grasshopper designs provide rules for Rhin
 12. 🛋 _**Contextual aesthetics**_
 
 
-🧙 Furthermore, imagine if users can all adjust the parameters through a designed AI-powered interface without interacting with the complex tool and 3D print the product from home; how can they give feedback, and what feedback data are needed for improvements once they try it out? I researched and discovered the seemingly contradictory yet promising paring of a concept, "mass customization" through [this article](https://t.ly/cXR72). I was thinking more about design for highly personalized fit, especially in the realm of healthcare, fitness, everyday safety equipment. The applications can be more creative and aesthetics-oriented. But what does creativity even mean with computational design? Is leveraging computational design to design a medical device necessarily a less creative process than to produce a fashionable keychain? For the final thought, please see some of my product findings below, all of which I appreciated and learned a lot from. 
+🧙 Furthermore, imagine if users can all adjust the parameters through a designed AI-powered interface without interacting with the complex tool and 3D print the product from home; how can they give feedback, and what feedback data are needed for improvements once they try it out? I researched and discovered the seemingly contradictory yet promising paring of a concept, "mass customization," through [this article](https://t.ly/cXR72). I was thinking more about design for a highly personalized fit, especially in the realm of healthcare, fitness, and everyday safety equipment. The applications can be more creative and aesthetics-oriented. But what does creativity even mean with computational design? Is leveraging computational design to design a medical device necessarily a less creative process than producing a fashionable keychain? For the final thought, please see some of my product findings below, all of which I appreciated and learned a lot from. 
 
 <img width="400" alt="Nike 3D-printed sneakers" src="https://sourcingjournal.com/wp-content/uploads/2018/03/Nike_Zoom_Superfly_Flyknit_Profile_hd_1600_hd_1600.jpg?w=800&h=511&crop=1">
 
