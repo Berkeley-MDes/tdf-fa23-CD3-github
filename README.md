@@ -54,11 +54,9 @@ I also wonder how to introduce the user context, like activity points, into the 
    - I want to tackle complex design problems by leveraging the full potential of these tools, which could involve optimizing product designs for manufacturing efficiency.
    - The notion of striking a balance between aesthetics, cost, and usability fascinates me and will continue to be a main topic to explore in Project 1.
    - I'm drawn to designs that consider the needs and behaviors of end-users. For instance, how can I leverage parametric design to create ergonomic office products or design equipment in public spaces that encourage accessible social interaction?
-   - Can the design output be modular for easier testing and evaluation? This is still a vague question to be composed more accurately, but I'm interested how to design for a larger-scale system with very complex inputs, constraints, and intents.
+   - Can the design output be modular for easier testing and evaluation? This is still a vague question to be composed more accurately, but I'm interested in how to design for a larger-scale system with very complex inputs, constraints, and intents.
    - 
-3. _**Decision-Making Mechanisms:**_ Embedding decision-making mechanisms into my designs intrigues me. For instance, if I'm designing a modular housing system, I might explore how computational design can help me generate layouts that maximize space utilization while adhering to local building codes and regulations.
-
-10. _**Documentation and Best Practices:**_ Recognizing the importance of good practices, I plan to implement more systematic documentation in my workflows. This could involve creating detailed design guidelines, documenting design decisions, and maintaining organized project files for future reference.
+3. _**Decision-Making Mechanisms:**_ Embedding decision-making mechanisms into designs intrigues me. For instance, if I'm designing a modular housing system, I might explore how computational design can help me generate layouts that maximize space utilization while adhering to local building codes and regulations.
 
 ---
 
