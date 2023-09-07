@@ -5,11 +5,30 @@ by Wanlun Ding, TDF fall 2023, MDes'24
 
 ### Process Doc & Assessment
 
-🤔 The first week's progress focused mainly on adjusting the existing parameters in Grasshopper and understanding how the changes appeared in Rhino, which gave me a vague and simplified sense of what computational design could do. The second week was more fruitful in terms of grasping the system design in Grasshopper...
+🤔 The first week's progress focused mainly on adjusting the existing parameters in Grasshopper and understanding how the changes appeared in Rhino, which gave me a vague and simplified sense of what computational design could do. The second week was more fruitful in terms of grasping the system design in Grasshopper with [the walkthrough tutorial on Cell Phone Stand Design by TJ](https://www.youtube.com/watch?v=GHtWNAPiAoE) ...
+
+First, continuing in last week's 2D phone stand export and laser cutting, I 
+
+<img alt="Error in Illustrator export" src="./weekly-reports/w2-0906/ai-out.png" width="300">
+<img alt="Surface area of 2D phone stand laser cut export 1" src="./weekly-reports/w2-0906/area-1.png" width="300">
+<img alt="Surface area of 2D phone stand laser cut export 2" src="./weekly-reports/w2-0906/area-2.png" width="300">
+<img alt="Tiny pointy structure in 2D phone stand design" src="./weekly-reports/w2-0906/pointy.png" width="300">
 
 At first, I couldn't navigate the files as I kept receiving this error message, which still popped up later even though I [looked it up](https://discourse.mcneel.com/t/error-loading-tutorial-files/157563). 
 
-<img alt="Error message context" src="./weekly-reports/error.png" width="600">
+
+<img alt="Error message context" src="./weekly-reports/w2-0906/copy-name.png" width="300">
+<img alt="Error message context" src="./weekly-reports/w2-0906/cut-1.png" width="300">
+<img alt="Error message context" src="./weekly-reports/w2-0906/cut-2.png" width="300">
+<img alt="Error message context" src="./weekly-reports/w2-0906/cylinder-landscape.png" width="300">
+<img alt="Error message context" src="./weekly-reports/w2-0906/cylinder-solid.png" width="300">
+<img alt="Error message context" src="./weekly-reports/w2-0906/images.png" width="300">
+<img alt="Error message context" src="./weekly-reports/w2-0906/landscape.png" width="300">
+
+<img alt="Error message context" src="./weekly-reports/w2-0906/portrait.png" width="300">
+<img alt="Error message context" src="./weekly-reports/w2-0906/preview.png" width="300">
+<img alt="Error message context" src="./weekly-reports/w2-0906/projection.png" width="300">
+<img alt="Error message context" src="./weekly-reports/w2-0906/projection-lip.png" width="300">
 
 ❗ Another obstacle I encountered was when I edited the phone viewing angle, and the entire stand model was shown in red to indicate an error as the two identical holding pieces would break. I wonder why the rest of the pieces could not change to reflect the parameter adjustments and if this gap existed in the structural design. Moreover, I couldn't figure out what the phone screen offset from edge meant by changing the related number. 
 
