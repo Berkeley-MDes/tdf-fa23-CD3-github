@@ -7,12 +7,18 @@ by Wanlun Ding, TDF fall 2023, MDes'24
 
 🤔 The first week's progress focused mainly on adjusting the existing parameters in Grasshopper and understanding how the changes appeared in Rhino, which gave me a vague and simplified sense of what computational design could do. The second week was more fruitful in terms of grasping the system design in Grasshopper with [the walkthrough tutorial on Cell Phone Stand Design by TJ](https://www.youtube.com/watch?v=GHtWNAPiAoE) ...
 
-First, continuing in last week's 2D phone stand export, I examined and exported my customized design to Illustrator for laser cutting 
+🤦‍♀️ First, continuing in last week's 2D phone stand export, I examined and exported my customized design to Illustrator for laser cutting. After baking, exporting, and opening Illustrator files thrice upon not finding the lines, I finally figured out and got used to grabbing the exported objects from the far wild.
 
 <img alt="Error in Illustrator export" src="./weekly-reports/w2-0906/ai-out.png" width="300">
+
+📐 Before proceeding with laser cutting, however, I noticed this tiny pointy part produced by my parameter input and decided to cut the example file instead
+
+
+<img alt="Tiny pointy structure in 2D phone stand design" src="./weekly-reports/w2-0906/pointy.png" width="300">
+
 <img alt="Surface area of 2D phone stand laser cut export 1" src="./weekly-reports/w2-0906/area-1.png" width="300">
 <img alt="Surface area of 2D phone stand laser cut export 2" src="./weekly-reports/w2-0906/area-2.png" width="300">
-<img alt="Tiny pointy structure in 2D phone stand design" src="./weekly-reports/w2-0906/pointy.png" width="300">
+
 
 At first, I couldn't navigate the files as I kept receiving this error message, which still popped up later even though I [looked it up](https://discourse.mcneel.com/t/error-loading-tutorial-files/157563). 
 
