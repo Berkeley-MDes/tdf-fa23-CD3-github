@@ -3,7 +3,7 @@ by Wanlun Ding, TDF fall 2023, MDes'24
 
 ## Report 2 - Week of 09/06/2023 
 
-### Process Doc & Assessment
+### Assessment & Reflections
 
 🤔 The first week's progress focused mainly on adjusting the existing parameters in Grasshopper and understanding how the changes appeared in Rhino, which gave me a vague and simplified sense of what computational design could do. The second week was more fruitful in terms of grasping the system design in Grasshopper with [the walkthrough tutorial on Cell Phone Stand Design by TJ](https://www.youtube.com/watch?v=GHtWNAPiAoE) ...
 
@@ -26,41 +26,32 @@ While the 2D phone stand might not be the perfect example for addressing this co
 
 🖲 The simple 3D phone stand file might serve as a more suitable case to investigate the balance, especially when I followed the tutorial to compare the sphere versus cylinder versions. Estimating the baked output's approximate volume by eyeing was hard, but I noticed that the cylinder's height and radius had the most significant impact on the result. However, if considering the stability factor, I couldn't tell if having higher back support in the cylinder version or making a wider base support in the sphere version worked better. The volumes can also differ more than in the 2D designs. 
 
-Although the parametric design approach can be a lot more efficient in producing a usable design, given the established relationship between objectives and responses, I had yet to see how it could make the ideal decisions in similar cases and what designers should do to achieve the balance. How can I embed a decision-making mechanism through designing the system in Grasshopper? 
+Although the parametric design approach can be a lot more efficient in producing a usable design, given the established relationship between objectives and responses, I had yet to see how it could make the ideal decisions in such cases and what designers should do to achieve the balance. How can I embed a decision-making mechanism through designing the system in Grasshopper? 
 
 <img alt="Phone stand sphere" src="./weekly-reports/w2-0906/cylinder-landscape.png" height="300">  <img alt="Volume of 3D phone stand bake 1" src="./weekly-reports/w2-0906/volume-1.png" height="300">
 <img alt="Phone stand cylinder" src="./weekly-reports/w2-0906/cylinder-solid.png" height="300">  <img alt="Volume of 3D phone stand bake 2" src="./weekly-reports/w2-0906/volume-2.png" height="300">
 
+❓ Next step in figuring out the design of inputs: I would like to learn how to increase the recessed space for placing the phone horizontally. In the current version, there were only very shallow indents on the two sides to hold the phone. Once again, I was only eyeing and had doubts about usability before going into the actual printing. 
+
+In addition, in the landscape version, the camera lens appeared to be suspended in mid-air, potentially indicating an issue with the phone's structural design. Unfortunately, I couldn't locate the source of this problem within the phone's design, as it worked out correctly with the portrait placement. 
 
 <img alt="3D phone stand landscape" src="./weekly-reports/w2-0906/landscape.png" height="400">  <img alt="3D phone stand portrait" src="./weekly-reports/w2-0906/portrait.png" height="400">
 
+👀  I also wonder how to introduce the user context, like activity points, into the simple 3D phone stand design and how it would affect the design output. 
+
+<img alt="Phone projection simulated" src="./weekly-reports/w2-0906/projection.png" width="300">
+<img alt="Phone projection lip" src="./weekly-reports/w2-0906/projection-lip.png" width="300">
+
+🏷 Finally, I learned good practices from following the tutorial: duplicating an item multiple times throughout the system whenever necessary to maintain better visibility. Additionally, incorporating notes to explain the purpose of each section is another effective method for staying informed and quickly locating relevant information. Much like in coding, having a well-organized and documented system design can significantly boost productivity and efficiency.
+
 <img alt="Good practice of copying names" src="./weekly-reports/w2-0906/copy-name.png" width="600">
-
-
-<img alt="Error message context" src="./weekly-reports/w2-0906/preview.png" width="300">
-<img alt="Error message context" src="./weekly-reports/w2-0906/projection.png" width="300">
-<img alt="Error message context" src="./weekly-reports/w2-0906/projection-lip.png" width="300">
-
-
-### Reflections (what and how I learned)
-
-🤯 Though having played with Rhino modeling a few years ago, I used it primarily for grasping 3D concepts rather than precision. This became evident when my attempt to export a design for laser cutting resulted in ill-fitting pieces back then. Reopening Rhino years later, I faced a steep relearning curve of the interface.
-
-🪩 Though I only tested the tools with ready-made sliders of parameters guiding the ultimate 2D and 3D designs, the project turned out more constructive when I took a step back to consider the qualitative decisions about parameters. 
-
-- I questioned the elements making up the current context: the CellPhoneStand_all file included various basic components like the floor, table, student user, phone screen, camera, and lens view. These were assembled to create a functional stand for shooting videos. The central focus was on accurately representing the user's actions, considering how the student's body and the table's geometry interacted with the phone's lens view.
-  
-- By searching "qualitative computational design," I came across a study, [HUMANISING THE COMPUTATIONAL DESIGN PROCESS Integrating Parametric Models with Qualitative Dimensions](https://papers.cumincad.org/data/works/att/ascaad2016_003.pdf), that discusses social and cultural contextual aspects. This analysis prepared:
-    > "Socio-spatial grammar for generating parametric solutions for contemporary tall residential buildings that encourage social interaction between families, while respecting their needs, lifestyles and context."
-    
-- To rethink the system of parameters while observing."how the current components are connected (without much understanding of how they are designed), I noted down a few components that could personalize the solution inspired by the article mentioned above and my real-life situation:
-
-  - Design for multiple shooting perspectives in a confined space. For instance, I have an L-shaped desk at home that can support shooting 
-
 
 ### Speculations (tools, work, and news)
 
-🤖 As a neophyte, I (of course) asked ChatGPT about the parameters helpful for generating a good phone stand design. Here is a list 
+speculation on the future direction for the tools [so much is changing very quickly right now, where do you think this is going? Why do you think this?]
+speculation on future direction of the work
+
+🤖 As a neophyte, I (of course) asked ChatGPT about the parameters for generating a good phone stand design. Here is a list 
 
 ---
 
