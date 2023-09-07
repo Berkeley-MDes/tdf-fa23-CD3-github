@@ -13,8 +13,8 @@ by Wanlun Ding, TDF fall 2023, MDes'24
 
 📐 Before proceeding with laser cutting, however, I noticed this tiny pointy part produced by my parameter input and decided to cut the example file instead
 
-
 <img alt="Tiny pointy structure in 2D phone stand design" src="./weekly-reports/w2-0906/pointy.png" width="300">
+<img alt="Laser cutting" src="./weekly-reports/w2-0906/laser.png" width="300">
 
 <img alt="Surface area of 2D phone stand laser cut export 1" src="./weekly-reports/w2-0906/area-1.png" width="300">
 <img alt="Surface area of 2D phone stand laser cut export 2" src="./weekly-reports/w2-0906/area-2.png" width="300">
