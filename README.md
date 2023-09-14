@@ -11,7 +11,9 @@ This week has been a dynamic and transformative period for our cohort's individu
 
 To set my own project challenges, I decided to come up with a 2D phone stand design and build from scratch to help me understand the fundamental logic and step-by-step building process of Grasshopper. However, I didn't yet have a deep understanding of what computational design can achieve other than the complex examples and architectural projects shown in class. Therefore, thinking mostly about customization based on parameter changing, I borrowed the same concept from the given design file to design 2D physical components that can be put together.    
 
-<img alt="Sketches of idea" src="./weekly-reports/w3-0914/sketches.png" height="350">
+<img alt="Sketches of idea" src="./weekly-reports/w3-0914/drawing.JPG" height="350">   <img alt="Sketches of idea" src="./weekly-reports/w3-0914/sketches.png" height="350">
+
+<img alt="Sketches of idea" src="./weekly-reports/w3-0914/phone model.JPG" height="350">
 
 <img alt="Exported Illustrator file with extra lines and separated hollow cut shapes" src="./weekly-reports/w3-0914/export-error.png" height="350">   <img alt="Fixing lines and shapes of hollow cuts in Illustrator" src="./weekly-reports/w3-0914/ai-fix.png" height="350">
 
