@@ -1,7 +1,7 @@
 # Hi, you are reading CD3's weekly progress reports :)
 by Wanlun Ding, TDF fall 2023, MDes'24
 
-## Report 2 - Week of 09/06/2023 
+## Report 3 - Week of 09/14/2023 
 
 ### Assessment & Reflections
 
