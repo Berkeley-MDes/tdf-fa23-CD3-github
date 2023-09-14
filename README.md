@@ -5,7 +5,14 @@ by Wanlun Ding, TDF fall 2023, MDes'24
 
 ### Assessment & Reflections
 
+This week has been a dynamic and transformative period for our cohort's individual projects, as we worked diligently towards the completion of Project 1. One challenge was that I found myself experimenting with basic operations during the first few weeks before realizing the need to pivot and come up with new design concepts.
+
+I was inspired by the various projects our cohort came up with, from a 3D printed hollow spheric phone stand, and a smoothly curved laptop stand, to a large architecture-like bowl consisting of several pieces inserted into one another. Their early initiation of the design process allowed them ample time for testing and evaluation, ultimately leading to more refined outcomes. Additionally, their diverse approaches to designing homeware and tools tailored to their daily needs showcased the versatility of their creative thinking.
+
+
 ### Speculations
+
+In terms of our work, I believe we should continue to prioritize adaptability and flexibility. The past week has shown us how quickly project requirements can change, and our ability to pivot and adapt will be essential in staying competitive and relevant in the industry. Additionally, we should strive for early project initiation and thorough planning to allow for iterative design and testing, as demonstrated by successful team members like Roshan, Charon, and Fareha.
 
 ---
 
