@@ -9,7 +9,10 @@ This week has been a dynamic and transformative period for our cohort's individu
 
 I was inspired by the various projects our cohort came up with, from a 3D printed hollow spheric phone stand, and a smoothly curved laptop stand, to a large architecture-like bowl consisting of several pieces inserted into one another. Their early initiation of the design process allowed them ample time for testing and evaluation, ultimately leading to more refined outcomes. Additionally, their diverse approaches to designing homeware and tools tailored to their daily needs showcased the versatility of their creative thinking.
 
-<img alt="Fixing lines and shapes of hollow cuts in Illustrator" src="./weekly-reports/w3-0914/ai-fix.png" height="200">   <img alt="Exported Illustrator file with extra lines and separated hollow cut shapes" src="./weekly-reports/w3-0914/export-error.png" height="200">  
+<img alt="Exported Illustrator file with extra lines and separated hollow cut shapes" src="./weekly-reports/w3-0914/export-error.png" height="350">   <img alt="Fixing lines and shapes of hollow cuts in Illustrator" src="./weekly-reports/w3-0914/ai-fix.png" height="350">
+
+<img alt="Problem of why using different methods in Grasshopper would lead to different origin points" src="./weekly-reports/w3-0914/point-option.png" height="350">   
+<img alt="Sketches of idea" src="./weekly-reports/w3-0914/sketches.png" height="350">
 
 
 ### Speculations
