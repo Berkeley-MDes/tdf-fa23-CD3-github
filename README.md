@@ -15,7 +15,7 @@ To set my own project challenges, I decided to come up with a 2D phone stand des
 
 Diving into designing with Grasshopper, I was quite overwhelmed at the very beginning and had to look for tutorials on how to make similar designs. Most of the simple product designs focused on building computing-generated structures based on simple geometries rather than pre-designed shapes like the cat illustrations I had. I traced the cat shapes in Rhino first and started adjusting the geometries to build each piece of the stand. This required me to shift between thinking in 3D forms, 2D shapes, and individual points seamlessly. extracting specific numeric values from points on a surface involved not only finding the correct command but also identifying the precise value to utilize. To maintain clarity in my workflow, I relied on notes at various stages to document and remind myself of each step.
 
-<img alt="Grasshopper model full view" src="./weekly-reports/w3-0914/grasshopper-model.png" height="300">
+<img alt="Grasshopper model full view" src="./weekly-reports/grasshopper-model.png" height="300">
 
 To simulate the phone placement, I imported the phone model into the provided design stack. There are two key parameters that can be adjusted to tailor the simulation: the vertical and horizontal positioning, in addition to the viewing angle in the original file. In addition, I can modify the width and length of the phone model, according to which the dimensions of the rear surface of the phone stand will align.
 
@@ -26,16 +26,30 @@ The back plate's dimensions can be adjusted with tolerance sliders, adding to th
 <img alt="Grasshopper componentes of the phone model imported" src="./weekly-reports/w3-0914/phone-connected.png" height="300">
 <img alt="Grasshopper sliders to adjust the circular inputs" src="./weekly-reports/w3-0914/inserts-input.png" height="300">   <img alt="Grasshopper sliders to adjust the circular inputs" src="./weekly-reports/w3-0914/inserts-input.png" height="300">
 
+I employed red notes to highlight lingering questions and uncertainties. These questions underscored the challenges of comprehending mathematics, particularly when dealing with interconnected elements back and forth. 
 
-<img alt="Exported Illustrator file with extra lines and separated hollow cut shapes" src="./weekly-reports/w3-0914/export-error.png" height="300">   <img alt="Fixing lines and shapes of hollow cuts in Illustrator" src="./weekly-reports/w3-0914/ai-fix.png" height="300">
+<img alt="Problem of why using different methods in Grasshopper would lead to different origin points" src="./weekly-reports/w3-0914/point-option.png" height="350">  
 
-<img alt="Problem of why using different methods in Grasshopper would lead to different origin points" src="./weekly-reports/w3-0914/point-option.png" height="350">   
+The exported 2D Illustrator file contained some errors that could be easily fixed. During the fabrication process, I had to make several iterations, tweaking certain parameters in an attempt to assemble the design, but I still couldn't ensure the stability of the stand. I suspected that this problem might have originated from the initial design concept. While the digital tools allowed the geometries to fit together, they could not provide sufficient information about the effectiveness of the supporting structure.
 
+<img alt="Exported Illustrator file with extra lines and separated hollow cut shapes" src="./weekly-reports/w3-0914/export-error.png" height="200">   <img alt="Fixing lines and shapes of hollow cuts in Illustrator" src="./weekly-reports/w3-0914/ai-fix.png" height="200">
+<img alt="Demonstration of rendered cat stand and laser-cut stand" src="./weekly-reports/w3-0914/cat-stand-demonstration.png" height="400">
 
+Reflecting on my experience, I found that working with Grasshopper involved more geometric and logical configurations compared to building with visual aids in Rhino. While I was able to make progress through trial and error, I realized that I tended to focus too narrowly on individual components in Grasshopper rather than viewing the entire project as a holistic system design effort. For my future endeavors in computational design, I aspire to develop a more holistic way of thinking that enables me to better harness these tools for creative purposes.
 
 ### Speculations
 
 In terms of our work, I believe we should continue to prioritize adaptability and flexibility. The past week has shown us how quickly project requirements can change, and our ability to pivot and adapt will be essential in staying competitive and relevant in the industry. Additionally, we should strive for early project initiation and thorough planning to allow for iterative design and testing, as demonstrated by successful team members like Roshan, Charon, and Fareha.
+
+I have identified several areas where I aim to enhance the design:
+- Refine the stand's mechanism and components to ensure it can securely support various phone models.
+- Explore building the project without relying on the Pufferfish plug-in or refining my workflow using it.
+- Investigate the possibility of creating a workflow that can incorporate supporting stands with different shapes, perhaps customized with other animal patterns.
+- Experiment with designing a 3D model using a single extruded car shape to hold the phone.
+
+**Futures of the Tools**
+
+The Nvidia Omniverse Connector plug-in allows Rhino and Grasshopper to function seamlessly within Nvidia Omniverse's real-time simulation and virtual collaboration platform. Multiple stakeholders can work with their own preferred tools and workflows while accessing and revising the shared live-sync model generated by group effort. This collaborative approach, supported by the platform's rendering capabilities and compatibility across different design tools, has the potential to accelerate the design and engineering process. Moreover, Nvidia's AI expertise may produce AI tools for designing, optimizing, and automating tasks in Rhino and Grasshopper. This integration can also offer new 3D design and parametric modeling education possibilities.
 
 ---
 
