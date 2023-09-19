@@ -13,7 +13,7 @@ To set my own project challenges, I decided to come up with a 2D phone stand des
 
 <img alt="Sketches of idea" src="./weekly-reports/w3-0914/drawing.JPG" height="350">   <img alt="Sketches of idea" src="./weekly-reports/w3-0914/sketches.png" height="350">
 
-Diving into designing with Grasshopper, I was quite overwhelmed at the very beginning and had to look for tutorials on how to make similar designs. Most of the simple product designs focused on building computing-generated structures based on simple geometries rather than pre-designed shapes like the cat illustrations I had. I traced the cat shapes in 
+Diving into designing with Grasshopper, I was quite overwhelmed at the very beginning and had to look for tutorials on how to make similar designs. Most of the simple product designs focused on building computing-generated structures based on simple geometries rather than pre-designed shapes like the cat illustrations I had. I traced the cat shapes in Rhino first and started adjusting the geometries to build each piece of the stand. 
 
 <img alt="Sketches of idea" src="./weekly-reports/w3-0914/phone model.JPG" height="350">
 
