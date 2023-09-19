@@ -13,9 +13,12 @@ To set my own project challenges, I decided to come up with a 2D phone stand des
 
 <img alt="Sketches of idea" src="./weekly-reports/w3-0914/drawing.JPG" height="350">   <img alt="Sketches of idea" src="./weekly-reports/w3-0914/sketches.png" height="350">
 
-Diving into designing with Grasshopper, I was quite overwhelmed at the very beginning and had to look for tutorials on how to make similar designs. Most of the simple product designs focused on building computing-generated structures based on simple geometries rather than pre-designed shapes like the cat illustrations I had. I traced the cat shapes in Rhino first and started adjusting the geometries to build each piece of the stand. 
+Diving into designing with Grasshopper, I was quite overwhelmed at the very beginning and had to look for tutorials on how to make similar designs. Most of the simple product designs focused on building computing-generated structures based on simple geometries rather than pre-designed shapes like the cat illustrations I had. I traced the cat shapes in Rhino first and started adjusting the geometries to build each piece of the stand. To simulate the phone placement, I imported the phone model in the provided design stack. There are two key parameters that can be adjusted to tailor the simulation: the vertical and horizontal positioning, in addition to the viewing angle in the original file. In addition, I can modify the width and length of the phone model, according to which the dimensions of the rear surface of the phone stand will align.
 
-<img alt="Sketches of idea" src="./weekly-reports/w3-0914/phone model.JPG" height="300">   
+<img alt="Rendering of the phone model imported" src="./weekly-reports/w3-0914/phone model.JPG" height="300">   <img alt="Grasshopper componentes of the phone model imported" src="./weekly-reports/w3-0914/phone-model-input.png" height="300">
+
+
+
 
 <img alt="Exported Illustrator file with extra lines and separated hollow cut shapes" src="./weekly-reports/w3-0914/export-error.png" height="300">   <img alt="Fixing lines and shapes of hollow cuts in Illustrator" src="./weekly-reports/w3-0914/ai-fix.png" height="300">
 
