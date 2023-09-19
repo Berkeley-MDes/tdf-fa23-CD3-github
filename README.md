@@ -15,6 +15,8 @@ To set my own project challenges, I decided to come up with a 2D phone stand des
 
 Diving into designing with Grasshopper, I was quite overwhelmed at the very beginning and had to look for tutorials on how to make similar designs. Most of the simple product designs focused on building computing-generated structures based on simple geometries rather than pre-designed shapes like the cat illustrations I had. I traced the cat shapes in Rhino first and started adjusting the geometries to build each piece of the stand. This required me to shift between thinking in 3D forms, 2D shapes, and individual points seamlessly. extracting specific numeric values from points on a surface involved not only finding the correct command but also identifying the precise value to utilize. To maintain clarity in my workflow, I relied on notes at various stages to document and remind myself of each step.
 
+<img alt="Grasshopper model full view" src="./weekly-reports/w3-0914/grasshopper-model.png" height="300">
+
 To simulate the phone placement, I imported the phone model into the provided design stack. There are two key parameters that can be adjusted to tailor the simulation: the vertical and horizontal positioning, in addition to the viewing angle in the original file. In addition, I can modify the width and length of the phone model, according to which the dimensions of the rear surface of the phone stand will align.
 
 <img alt="Rendering of the phone model imported" src="./weekly-reports/w3-0914/phone model.JPG" height="300">   <img alt="Grasshopper componentes of the phone model imported" src="./weekly-reports/w3-0914/phone-model-input.png" height="300">
