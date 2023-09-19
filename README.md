@@ -17,7 +17,10 @@ Diving into designing with Grasshopper, I was quite overwhelmed at the very begi
 
 <img alt="Rendering of the phone model imported" src="./weekly-reports/w3-0914/phone model.JPG" height="300">   <img alt="Grasshopper componentes of the phone model imported" src="./weekly-reports/w3-0914/phone-model-input.png" height="300">
 
+The back plate's dimensions can be adjusted with tolerance sliders, adding to the phone's original dimensions. I can also fine-tune the back plate's angle and the distance between the two cat stands. However, these adjustments are necessary due to design limitations, as these parameters were not initially linked to the phone's angle and center of gravity and cannot automatically optimize themselves. The corner radius is also available to adjust for aesthetic purposes. There are also sliders that control the inserts' shape, size, and the cable hole's scale. Two hollow rectangular spaces accommodate cat tails, with extension direction determined by negative maths in Grasshopper.
 
+<img alt="Grasshopper componentes of the phone model imported" src="./weekly-reports/w3-0914/phone-connected.png" height="300">
+<img alt="Grasshopper sliders to adjust the circular inputs" src="./weekly-reports/w3-0914/inserts-input.png" height="300">   <img alt="Grasshopper sliders to adjust the circular inputs" src="./weekly-reports/w3-0914/inserts-input.png" height="300">
 
 
 <img alt="Exported Illustrator file with extra lines and separated hollow cut shapes" src="./weekly-reports/w3-0914/export-error.png" height="300">   <img alt="Fixing lines and shapes of hollow cuts in Illustrator" src="./weekly-reports/w3-0914/ai-fix.png" height="300">
