@@ -1,6 +1,32 @@
 # Hi, you are reading CD3's weekly progress reports :)
 by Wanlun Ding, TDF fall 2023, MDes'24
 
+## Table of Contents (by week)
+
+- [Report 1 - Week of 08/31/2023](https://github.com/Berkeley-MDes/tdf-fa23-wanlun-ding/edit/main/README.md#report-1---week-of-08312023)
+- [Report 2 - Week of 09/06/2023](https://github.com/Berkeley-MDes/tdf-fa23-wanlun-ding/edit/main/README.md#report-2---week-of-09062023)
+- [Report 3 - Week of 09/14/2023](https://github.com/Berkeley-MDes/tdf-fa23-wanlun-ding/edit/main/README.md#report-3---week-of-09142023)
+- [Report 4 - Week of 09/32/2023](https://github.com/Berkeley-MDes/tdf-fa23-wanlun-ding/edit/main/README.md#report-4---week-of-09212023)
+
+## Report 4 - Week of 09/21/2023 
+
+### Assessment & Reflections & Speculations 
+
+🥳 Kickstarting the new phase of Project 2 - digital ecosystem, I was very excited about getting into the physical connected with the digital and getting my hands on hardware I had no experience with. This was particularly exciting for me, given my longstanding interest in cyborgs, wearables, and IoT technologies.
+
+🤩 Since we were mainly working on setting up the Particle Photon 2 IoT Development Board, I would like to take this entry to delve deeper into understanding the concept of a digital ecosystem and gain insights into the functioning of microcontrollers. 
+
+[Simply showing off my connected Photon 2 board below]
+
+<img alt="Connecting my Photon 2 kit" src="./weekly-reports/w4-0921/photon-connect-1.jpg" height="400">   <img alt="Connecting my Photon 2 kit continued" src="./weekly-reports/w4-0921/photon-connect-2.JPG" height="400">
+
+Despite how frequently I use the two words "digital" and "ecosystem", I had never heard of the pair. After the introduction in class, I decided to look into this realm, given my past theoretical focus. I came across this article ["Everything you need to know about Digital Ecosystems"](https://www.imd.org/reflections/digital-ecosystems/#item1) and took note of the concept as:
+
+- 🍄 _**Digital Ecosystem**_
+  af
+
+---
+
 ## Report 3 - Week of 09/14/2023 
 
 ### Assessment & Reflections
