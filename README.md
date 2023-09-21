@@ -3,10 +3,20 @@ by Wanlun Ding, TDF fall 2023, MDes'24
 
 ## Table of Contents (by week)
 
-- [Report 1 - Week of 08/31/2023](https://github.com/Berkeley-MDes/tdf-fa23-wanlun-ding/edit/main/README.md#report-1---week-of-08312023)
-- [Report 2 - Week of 09/06/2023](https://github.com/Berkeley-MDes/tdf-fa23-wanlun-ding/edit/main/README.md#report-2---week-of-09062023)
-- [Report 3 - Week of 09/14/2023](https://github.com/Berkeley-MDes/tdf-fa23-wanlun-ding/edit/main/README.md#report-3---week-of-09142023)
-- [Report 4 - Week of 09/32/2023](https://github.com/Berkeley-MDes/tdf-fa23-wanlun-ding/edit/main/README.md#report-4---week-of-09212023)
+- Week of 08/31/2023:
+  - [Report 1](https://github.com/Berkeley-MDes/tdf-fa23-wanlun-ding/edit/main/README.md#report-1---week-of-08312023)
+
+- Week of 09/06/2023
+  
+  - [Report 2](https://github.com/Berkeley-MDes/tdf-fa23-wanlun-ding/edit/main/README.md#report-2---week-of-09062023)
+
+- Week of 09/14/2023
+  
+  - [Report 3](https://github.com/Berkeley-MDes/tdf-fa23-wanlun-ding/edit/main/README.md#report-3---week-of-09142023)
+
+- Week of 09/21/2023
+
+  - [Report 4](https://github.com/Berkeley-MDes/tdf-fa23-wanlun-ding/edit/main/README.md#report-4---week-of-09212023)
 
 ## Report 4 - Week of 09/21/2023 
 
