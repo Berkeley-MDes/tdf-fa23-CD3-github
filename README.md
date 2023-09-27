@@ -24,7 +24,11 @@ by Wanlun Ding, TDF fall 2023, MDes'24
 
 ## Report 5 - Week of 09/28/2023 
 
-### Assessment & Reflections & Speculations 
+### Assessment & Reflections
+
+For the past week, we have been working on more ways to play with the Photon 2 IoT development board 
+
+### Speculations
 
 ---
     
