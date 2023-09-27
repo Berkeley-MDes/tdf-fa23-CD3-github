@@ -26,7 +26,13 @@ by Wanlun Ding, TDF fall 2023, MDes'24
 
 ### Assessment & Reflections
 
-For the past week, we have been working on more ways to play with the Photon 2 IoT development board 
+Over the past week, our focus has been on exploring various ways to utilize the Photon 2 IoT development board. We expanded our experimentation by incorporating external LED lights and resistors, along with corresponding codes, to experiment with different interaction methods using the tool. Initially, I followed the example positions provided in the tutorial when connecting the wires, which was not working in the beginning. Thanks to the guidance of Clara and Sudhu, I gained a clearer understanding of how to make the connections based on the labeled components.
+
+<img alt="Light up the LED of Photon 2" src="./weekly-reports/w5-0928/photon-led.JPG" height="400">   <img alt="Wired up to print value" src="./weekly-reports/w5-0928/photon-read.JPG" height="400">
+
+Subsequently, I delved deeper into understanding the connections with TJ's drawing of a circuit diagram. TJ also explained how values were affected and displayed in response to the presence of the resistor. The diagram brought back some physics class concepts from long ago and helped me grasp the practical aspects, providing a solid rationale for the specific connections we were making. So I was hoping to look up circuit drawings of Photon 2 but didn't find many examples. However, by looking at the block diagram provided by Particle, I was able to get started with learning the components and relationships. 
+
+<img alt="Block diagram from Particle" src="./weekly-reports/w5-0928/block-diagram.png" height="400"> <img alt="Connection diagram from the tutorial" src="./weekly-reports/w5-0928/circuit-diagram.png" height="400">
 
 ### Speculations
 
