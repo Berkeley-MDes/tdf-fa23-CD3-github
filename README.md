@@ -40,6 +40,8 @@ I found inspiration for speculating about the hardware tool's potential applicat
 
 <img alt="The E-Textile documentation" src="./weekly-reports/w5-0928/etextile.JPG" height="400"> <img alt="One e-textile example" src="./weekly-reports/w5-0928/fabric.JPG" height="400">  <img alt="Another e-textile example" src="./weekly-reports/w5-0928/fabric-myco.JPG" height="400">
 
+During the project ideation session, the initial request was for us to brainstorm solutions across various industries. At first, I was a bit confused because I attempted to restrict my ideas to what I believed could be implemented with the hardware tool. However, as I began to explore a wider range of concepts with my teammates, I realized that I had limited knowledge about the tool's potential applications, and therefore there was no need for me to impose restrictions. Later, when the project preferences form came out, I was pleasantly surprised by TJ's use of chatGPT to provide detailed prompts and examples of how the technology could be utilized. This revelation expanded my understanding of the tool's capabilities and the diverse ways it could be harnessed.
+
 ---
     
 ## Report 4 - Week of 09/21/2023 
