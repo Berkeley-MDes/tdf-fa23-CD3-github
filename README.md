@@ -36,6 +36,10 @@ Subsequently, I delved deeper into understanding the connections with TJ's drawi
 
 ### Speculations
 
+I found inspiration for speculating about the hardware tool's potential applications and future directions through two class activities from the past week. The first was our guest speaker, [Adrian Freed](http://www.adrianfreed.com/), who shared his insights and experiences with the [E-textile Swatch Exchange](https://etextile-summercamp.org/swatch-exchange/). The second source was the project ideation session centered around creating real-world solutions in various fields using the Photon kit. The creatively curated documentation of the E-textile Swatch Exchange was especially inspiring in its very format, but it also provides insight into how the hardware can be combined with different materials and experimented with different ideas.
+
+<img alt="The E-Textile documentation" src="./weekly-reports/w5-0928/etextile.JPG" height="400"> <img alt="One e-textile example" src="./weekly-reports/w5-0928/fabric.JPG" height="400">  <img alt="Another e-textile example" src="./weekly-reports/w5-0928/fabric-myco.JPG" height="400">
+
 ---
     
 ## Report 4 - Week of 09/21/2023 
