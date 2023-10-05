@@ -38,10 +38,11 @@ Similarly, within my group project, I was pleasantly surprised by one of my team
 
 This approach differs significantly from my prior experiences, which often started with careful planning in advance. In this entirely new area, I found the importance of early and extensive experimentation. Collaborating with my team has been enjoyable, and I've gained many insights by looking through impressive projects by others.
 
- 
+<img alt="My team's brainstorm board" src="./weekly-reports/w6-1005/brainstorm.png">
+
 ### Speculations
 
-I wonder how to build a more complex hardware-enabled digital ecosystem and the differences from the Photon 2 development board and other materials in the kit. 
+I wonder how to build a more complex hardware-enabled digital ecosystem and its differences from what can be built with the Photon 2 development board and other materials in the kit. 
 
 ---    
 
