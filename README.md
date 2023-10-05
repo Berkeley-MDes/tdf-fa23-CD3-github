@@ -32,17 +32,16 @@ by Wanlun Ding, TDF fall 2023, MDes'24
 
 ### Assessment & Reflections
 
-
-
 Since our group formation and the start of our work sessions in the past week, I've been exposed to numerous inspiring ideas about creating projects involving hardware, a domain I had never worked with before. For instance, when hearing about the animal enrichment prototype, I realized that even though I worked on this topic before, I hadn't explored related projects or concepts integrating electronics, especially those that are responsive.
 
 Similarly, within my group project, I was pleasantly surprised by one of my teammates' adeptness in building wearables, which she found to be a relatively straightforward and easy process. Given the tools at our disposal, it seems more important to generate innovative ideas and figure out the assembly process into a unique creation, once we've grasped the basics. 
 
 This approach differs significantly from my prior experiences, which often started with careful planning in advance. In this entirely new area, I found the importance of early and extensive experimentation. Collaborating with my team has been enjoyable, and I've gained many insights by looking through impressive projects by others.
 
-
  
 ### Speculations
+
+I wonder how to build a more complex hardware-enabled digital ecosystem and the differences from the Photon 2 development board and other materials in the kit. 
 
 ---    
 
