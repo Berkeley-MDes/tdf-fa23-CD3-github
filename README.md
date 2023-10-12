@@ -37,12 +37,12 @@ by Wanlun Ding, TDF fall 2023, MDes'24
 ### Assessment & Reflections
 In our group project, we've made progress in several aspects in the past week. We began the process of crafting a code script for the Photon 2 board, focusing on connecting it with sensors and reading data from these sensors. This experience has been a learning curve, but it's been instructive to witness how the hardware interacts with the digital code.
 
-<img alt="My team's progress" src="./weekly-reports/w7-1012/photon-code.png">
+<img alt="My team's progress" src="./weekly-reports/w7-1012/photon-code.png" width="400">
 
 Additionally, we've been experimenting with building interactions in Unity. We initially tried to implement this in Arduino, with which our group members had more experience. This shift has given us more flexibility in crafting immersive interactions, but we are excited to learn to implement with Photon instead. We've also been finding plant recognition algorithms that we can integrate into our project. The ultimate goal is to develop these algorithms ourselves based on plant samples found in Berkeley. 
 
-<img alt="My team's progress" src="./weekly-reports/w7-1012/plant-algo.png">
-<img alt="My team's progress" src="./weekly-reports/w7-1012/sensor-unity.png">
+<img alt="My team's progress" src="./weekly-reports/w7-1012/plant-algo.png" width="400">
+<img alt="My team's progress" src="./weekly-reports/w7-1012/sensor-unity.png" width="400">
 
 Our ongoing focus lies in further refining the narrative associated with our prototype. We are particularly intrigued by the concept of a speculative design fueled by a climate apocalypse narrative, in which our prototype plays a pivotal role in safeguarding plant data, preserving species, and enhancing adaptability.
 
