@@ -39,9 +39,15 @@ by Wanlun Ding, TDF fall 2023, MDes'24
 
 ### Assessment & Reflections
 
-It has been a fruitful week as we moved towards the final presentation of Project 2. 
+It has been a fruitful week as we moved towards the final presentation of Project 2. In our "Build Your Garden" group project, we've delved into the intricacies of designing a digital ecosystem with two Photon boards to address our concern about climate change through a small-scale solution. This journey has been enlightening and taught me valuable lessons about building electronics with the concept of the digital ecosystem. 
+
+Assessing the state of our work, I'm proud of the progress we've made in building the initial sensor-embedded board and developing code to read real-time data from environmental sensors. We've also successfully established a connection between the Photon board and the Unity-powered interface. Our ability to grow plants in Unity through interactions with physical sensors is a significant achievement.
 
 ### Speculations
+
+Looking ahead, I imagine the future direction for tools like the Photon board and digital ecosystems is incredibly promising and interesting to explore for myself. Given the rapidly changing landscape of technology, I believe these tools will play a crucial role in addressing environmental challenges. The integration of cameras and additional environmental sensors, coupled with open-source plant classification algorithms, holds the potential to greatly improve how we interact with and monitor our natural surroundings.
+
+As for the future direction of our work, I envision a digital ecosystem that enhances the first device's capabilities and incorporates multiple plant-specific touchpoints. These touchpoints will allow users to monitor their favorite plants and visualize the condition of their garden's plants based on real-world location data. This dynamic and interactive approach can help us better understand and communicate with our natural ecosystem, bridging the gap between the digital and physical worlds.
 
 ---  
 
