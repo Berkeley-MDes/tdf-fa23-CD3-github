@@ -34,6 +34,17 @@ by Wanlun Ding, TDF fall 2023, MDes'24
   
   - [Report 8](https://github.com/Berkeley-MDes/tdf-fa23-wanlun-ding/edit/main/README.md#report-8---week-of-10192023)
 
+- Week of 10/26/2023
+  
+  - [Report 9](https://github.com/Berkeley-MDes/tdf-fa23-wanlun-ding/edit/main/README.md#report-9---week-of-10262023)
+
+---   
+## Report 9 - Week of 10/26/2023 
+
+### Assessment & Reflections
+
+### Speculations
+
 ---   
 ## Report 8 - Week of 10/19/2023 
 
