@@ -41,9 +41,45 @@ by Wanlun Ding, TDF fall 2023, MDes'24
 ---   
 ## Report 9 - Week of 10/26/2023 
 
+### Assessment
+
+This week, we moved forward to project 4 with a great introduction to the tool ZeroWidth led by Peter Binggeser. The project's goal of creating mini versions of oneself using large language models is both intriguing and promising. It was evident that Peter understands how these models work and how they can be customized for specific applications. The concept of configuring GPT-4 to acquire individualized knowledge and communication styles is an interesting practical application as well as a great opportunity to interact with the technology.
+
+The three phases of language model development discussed during the meeting provided a structured approach to harnessing the full potential of these models. It was particularly enlightening to learn about the pre-training, structured data, and fine-tuning phases, each contributing to the model's ability to perform specialized tasks.
+
+To better help familiarize myself with the tool, I took notes of the different components below for planning out the coming project:
+
+  - 🖥 _**Workbench**_
+refers to the tool that allows users to customize and interact with language models to create intelligent solutions for various tasks.
+
+  - 🧠 _**Intelligence**_
+refers to the customized behavior or capabilities of the language models within the workbench. It involves providing specific instructions to the language model, injecting variables, and fine-tuning its behavior to make it useful for particular applications. This intelligence is designed to go beyond what standard, off-the-shelf language models can achieve.
+
+  - 🗃 _**Knowledge Sets**_
+are collections of information or data that enable language models, including off-the-shelf models, to have a deeper understanding of a subject or access proprietary information. These knowledge sets are used to enhance the capabilities of the language model and can be tailored to specific use cases, allowing the language model to provide more detailed and context-specific responses.
+
+  - 🤖 _**Apps**_
+refer to applications or interfaces that are built around the customized intelligence created using the workbench. These apps act as a layer on top of the language model, providing an API for developers to integrate the customized intelligence into client-facing or internal tools. They allow for the practical implementation of the customized language model in various products or services.
+
+  - 🤖 _**Tokens**_
+are standardized units of text used for analysis within language models, which can be represented by integers or numbers and serve as the fundamental building blocks for language models to process and understand text. Language models do not analyze words directly; instead, they break down text into tokens. Each word or part of a word, along with punctuation and spacing, can be represented as one or more tokens.
+    - Understanding tokens is crucial because they directly impact how language models process and interact with text. It affects how the model manages the context of a conversation and remembers previous interactions. Language models have limitations on the number of tokens they can handle in a single interaction, which is why it's important to manage token usage effectively.
+    - Effective token management involves deciding what information to include in a conversation and how to allocate tokens to achieve the desired behavior from the language model. Few-shot learning is also mentioned, which is a technique where the model is provided with just a few pieces of information to answer a question rather than relying on an extensive structured database or dataset.
+    - In the meeting, Peter discussed how knowledge sets can help reduce the number of tokens used. Peter mentions breaking down the syllabus into smaller segments to save on tokens, and the system is designed to pull in relevant information as the conversation evolves. The overall theme is that understanding and managing tokens are essential for efficient and effective communication with language models, especially when dealing with limited token capacities.
+
 ### Assessment & Reflections
 
+The meeting shed light on the vast possibilities of language models and their applications in conversation and creating AI-enabled devices. Peter's demonstration of creating a chatbot and an AI-enabled device showcased the immediate practicality of these models. Additionally, the potential use of language models in building conversational portfolio pages and hardware devices is a compelling concept.
+
+The discussion on tokens, context windows, and managing the use of tokens was particularly enlightening. It highlighted the intricacies of effective communication with language models and the importance of optimizing their usage. Furthermore, the introduction of Knowledge Sets and Vector Databases offered a novel approach to encoding and searching for information, moving away from traditional keyword-based methods.
+
 ### Speculations
+
+The project can potentially revolutionize how we interact with language models and AI. As the team delves deeper into the development and customization of GPT-4, it is likely that we will witness the emergence of more practical applications and innovative use cases.
+
+The concept of a mini version of oneself capable of answering questions about personal behavior is exciting. It opens up possibilities for personalized AI assistants and educational tools. Introducing Knowledge Sets and Vector Databases may lead to a paradigm shift in information retrieval and management, making it more efficient and user-friendly.
+
+The development of the Workbench and its components may also become more refined, offering users greater flexibility and control over their language models.
 
 ---   
 ## Report 8 - Week of 10/19/2023 
