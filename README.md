@@ -63,11 +63,17 @@ refer to applications or interfaces that are built around the customized intelli
 
   - 🤖 _**Tokens**_
 are standardized units of text used for analysis within language models, which can be represented by integers or numbers and serve as the fundamental building blocks for language models to process and understand text. Language models do not analyze words directly; instead, they break down text into tokens. Each word or part of a word, along with punctuation and spacing, can be represented as one or more tokens.
-    - Understanding tokens is crucial because they directly impact how language models process and interact with text. It affects how the model manages the context of a conversation and remembers previous interactions. Language models have limitations on the number of tokens they can handle in a single interaction, which is why it's important to manage token usage effectively.
+    - Understanding tokens is crucial because they directly impact how language models process and interact with text. It affects how the model manages the context of a conversation and remembers previous interactions. Language models have limitations on the number of tokens they can handle in a single interaction, which is why managing token usage effectively is important.
     - Effective token management involves deciding what information to include in a conversation and how to allocate tokens to achieve the desired behavior from the language model. Few-shot learning is also mentioned, which is a technique where the model is provided with just a few pieces of information to answer a question rather than relying on an extensive structured database or dataset.
     - In the meeting, Peter discussed how knowledge sets can help reduce the number of tokens used. Peter mentions breaking down the syllabus into smaller segments to save on tokens, and the system is designed to pull in relevant information as the conversation evolves. The overall theme is that understanding and managing tokens are essential for efficient and effective communication with language models, especially when dealing with limited token capacities.
 
-### Assessment & Reflections
+<img alt="Working with ZeroWidth" src="./weekly-reports/w9-1026/welcome.png">
+<img alt="Working with ZeroWidth" src="./weekly-reports/w9-1026/variables.png" width="700">
+<img alt="Working with ZeroWidth" src="./weekly-reports/w9-1026/temp.png">
+
+<img alt="Working with ZeroWidth" src="./weekly-reports/w9-1026/error.png" width="400">
+
+### Reflections
 
 The meeting shed light on the vast possibilities of language models and their applications in conversation and creating AI-enabled devices. Peter's demonstration of creating a chatbot and an AI-enabled device showcased the immediate practicality of these models. Additionally, the potential use of language models in building conversational portfolio pages and hardware devices is a compelling concept.
 
