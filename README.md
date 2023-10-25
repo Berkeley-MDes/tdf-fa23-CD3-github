@@ -67,11 +67,16 @@ are standardized units of text used for analysis within language models, which c
     - Effective token management involves deciding what information to include in a conversation and how to allocate tokens to achieve the desired behavior from the language model. Few-shot learning is also mentioned, which is a technique where the model is provided with just a few pieces of information to answer a question rather than relying on an extensive structured database or dataset.
     - In the meeting, Peter discussed how knowledge sets can help reduce the number of tokens used. Peter mentions breaking down the syllabus into smaller segments to save on tokens, and the system is designed to pull in relevant information as the conversation evolves. The overall theme is that understanding and managing tokens are essential for efficient and effective communication with language models, especially when dealing with limited token capacities.
 
-<img alt="Working with ZeroWidth" src="./weekly-reports/w9-1026/welcome.png">
-<img alt="Working with ZeroWidth" src="./weekly-reports/w9-1026/variables.png" width="700">
-<img alt="Working with ZeroWidth" src="./weekly-reports/w9-1026/temp.png">
+Below are some screenshots that document my process of working with ZeroWidth:
 
-<img alt="Working with ZeroWidth" src="./weekly-reports/w9-1026/error.png" width="400">
+- I customized the welcome message of the chatbot.
+  - <img alt="Working with ZeroWidth" src="./weekly-reports/w9-1026/welcome.png" width="600">
+- Adding variables:
+  - <img alt="Working with ZeroWidth" src="./weekly-reports/w9-1026/variables.png" width="500">
+- Learning about temperature and randomness:
+  - <img alt="Working with ZeroWidth" src="./weekly-reports/w9-1026/temp.png" width="600">
+- After publishing my first version of the intelligence, I encountered errors in the conversational interface.
+  - <img alt="Working with ZeroWidth" src="./weekly-reports/w9-1026/error.png" width="300">
 
 ### Reflections
 
