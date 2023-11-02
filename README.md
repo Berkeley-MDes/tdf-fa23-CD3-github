@@ -38,6 +38,29 @@ by Wanlun Ding, TDF fall 2023, MDes'24
   
   - [Report 9](https://github.com/Berkeley-MDes/tdf-fa23-wanlun-ding/edit/main/README.md#report-9---week-of-10262023)
 
+- Week of 11/02/2023
+  
+  - [Report 10](https://github.com/Berkeley-MDes/tdf-fa23-wanlun-ding/edit/main/README.md#report-10---week-of-11022023)
+
+---   
+## Report 10 - Week of 11/02/2023 
+
+### Assessment & Reflections
+
+This week, I had the opportunity to present my mini designer twin project, which harnesses ZeroWidth's power to create an interactive portfolio. It's designed for professional use in interviews and networking, offering a personalized conversation with a virtual assistant. While I had some comfort with the UI interface, my knowledge of LLM was limited, and I knew I was facing a Triceratops or Platypus level of challenge.
+
+To overcome these challenges, I set out to teach my intelligence how to answer specific questions, adopt my tone, and provide relevant information. My journey started with simple instructions, including a welcome message and clarifying the system's roles. These roles encompassed an assistant, career coach, and self-branding bot, each with a distinct tone. Although the system effectively communicated these roles, I aimed for more subtlety by avoiding giving users my exact instructions.
+
+As I delved into information management, I organized knowledge sets and chunks by content with a task-oriented approach, addressing the challenges of linking limitations. I noticed that my AI experienced an identity crisis due to slow updates when prompted to personalize responses with variable modifications. This prompted me to reassess my approach.
+
+To fine-tune my AI's responses, I adjusted the temperature settings. While a setting of 0.2 provided precise answers to specific questions, it struggled with broader inputs. On the other hand, a setting of 1.7 generated incoherent responses. The sweet spot was at 1.1, offering relevant answers with a touch of improvisation.
+
+### Speculations
+
+In terms of speculation, I anticipate the development of chat interfaces that mimic human-like communication styles and ponder alternative designs for LLM. Privacy concerns come to mind with the fine-tuning of models. The balance between individual needs and sensitive data capture needs careful consideration from an engineering perspective.
+
+One thought-provoking question that arose is whether we should be held accountable for the biases present in digital twins. Also, there's a risk of overreliance on digital twins as shortcuts, potentially hindering our own thinking processes. Exploring the capabilities and responsibilities of digital twins in LLM design is an avenue I'm eager to pursue further.
+
 ---   
 ## Report 9 - Week of 10/26/2023 
 
