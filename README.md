@@ -42,6 +42,25 @@ by Wanlun Ding, TDF fall 2023, MDes'24
   
   - [Report 10](https://github.com/Berkeley-MDes/tdf-fa23-wanlun-ding/edit/main/README.md#report-10---week-of-11022023)
 
+- Week of 11/09/2023
+  
+  - [Report 11](https://github.com/Berkeley-MDes/tdf-fa23-wanlun-ding/edit/main/README.md#report-11---week-of-11092023)
+
+---   
+## Report 11 - Week of 11/09/2023 
+
+### Assessment & Reflections
+
+This week was marked by the exciting opportunity to present our projects. Witnessing the creativity and innovation in others' projects was truly inspiring, providing fresh perspectives and ideas for future endeavors. The feedback received was invaluable, particularly the positive comments on the engaging video, well-constructed welcome message, and effective exploration of the LLM model. It's encouraging to know that these aspects resonated positively.
+
+Constructive feedback is a crucial aspect of growth, and I appreciate the insights shared about information repetition in the LLM. Taking this feedback onboard, I plan to enhance the user experience by addressing this aspect for smoother interactions. Additionally, the suggestion to incorporate captions for clarity in video presentations is insightful and will be considered for future improvements, aiming to make our content more accessible and user-friendly.
+
+We also had the privilege of a guest lecture by Mohite Bhoite, where he showcased his personal projects involving Particle Photon boards. The session was enlightening, demonstrating these boards' diverse opportunities for creating interactive desktop installations. The exposure to such practical applications broadened my understanding of hardware possibilities and sparked ideas for future projects.
+
+### Speculations
+
+In the context of the guest lecture by Mohite Bhoite, I see exciting opportunities for our final project. Integrating hardware design elements, inspired by the diverse possibilities demonstrated, could add a tangible and interactive dimension to the final project work. This might involve creating responsive and dynamic elements, enhancing user engagement, and storytelling aspects of our project. The aim is to explore how Particle Photon boards can elevate the overall user experience by seamlessly blending digital and physical elements in our final project.
+
 ---   
 ## Report 10 - Week of 11/02/2023 
 
