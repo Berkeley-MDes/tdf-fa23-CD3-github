@@ -55,7 +55,13 @@ by Wanlun Ding, TDF fall 2023, MDes'24
 
 ### Assessment & Reflections
 
+This week commenced with an inspiring project proposal showcase session. The posters showcasing everyone's ideas for the final project were informative and inspiring. Seeing the diverse range of concepts opened up fresh perspectives and got the creativity flowing.
+
+A significant decision was made as Yoojin, Stephanie, and I formed a group to delve into hardware-enabled ferrofluid installations. We embarked on an exploratory journey, immersing ourselves in tutorials to understand the intricacies of this fascinating medium. Our initial meeting was an opportunity to brainstorm and deliberate on the inputs and outputs we envisioned from user interactions, setting the stage for our project's foundation.
+
 ### Reflections
+
+The exploration phase led us to delve into existing designs within the makers' community, sparking speculation on the diverse designs achievable with ferrofluid. Witnessing the plethora of designs ignited our imagination and broadened our perspectives on our project's potential directions. It's a captivating space with boundless possibilities, and these speculations have set the stage for creative ideation and design explorations in the upcoming weeks.
 
 ---   
 ## Report 11 - Week of 11/09/2023 
